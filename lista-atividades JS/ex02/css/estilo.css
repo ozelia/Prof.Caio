@@ -1,0 +1,26 @@
+body{
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.form{
+    width: 500px;
+    padding: 20px;
+    border:solid 2px #cc3f08;
+    background-color: #654f88;
+    margin: 10px;
+}
+label{
+    display: block;
+    font-weight: bold;
+}
+button{
+    background: #e2e9eb;
+    color: #b88d7c;
+    text-transform: uppercase;
+    border:0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #b88d7c;
+}

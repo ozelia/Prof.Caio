@@ -1,0 +1,26 @@
+body{
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.form{
+    width: 500px;
+    padding: 20px;
+    border:solid 2px #333;
+    background-color: rgb(194, 113, 176);
+    margin: 10px;
+}
+label{
+    display: block;
+    font-weight: bold;
+}
+button{
+    background: #a7a7b9;
+    color: rgb(64, 128, 187);
+    text-transform: uppercase;
+    border:0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #6b4164;
+}

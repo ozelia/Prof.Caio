@@ -1,0 +1,14 @@
+lista.insertBefore(novoElem, itens[0]);
+
+<ul class="lista3">
+            <li>Linguagem de Programação 1</li>
+        </ul>
+        <ul class="lista4">
+            <li>Análise e Projeto de Sistemas</li>
+        </ul>
+        <ul class="lista5">
+            <li>Desenvolvimento Web 1</li>
+        </ul>
+        <ul class="lista6">
+            <li>Sociedade e Rede</li>
+        </ul>
